@@ -24,4 +24,5 @@
 | Trabalhando com IA Generativa | [Certificado](https://www.dio.me/certificate/S82PLZ9I/share)
 
 ---------
-![Fabio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabioagro&show_icons=true&theme=highcontrast)
+![Fabio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioAgroTechnology&show_icons=true&theme=highcontrast)
+
