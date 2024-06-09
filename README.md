@@ -14,7 +14,7 @@
 
 🔑 Sempre olhando as oportunidades...
 
-📭 [LinkedIn](www.linkedin.com/in/fabiohenriqueagro)
+📭 [LinkedIn](https://www.linkedin.com/in/fabiohenriqueagro/)
 
 -----------
 
