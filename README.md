@@ -22,6 +22,7 @@
 |--------------------------------- | -------------- |
 | Microsoft Azure AI Fundamentals | [Certificado](https://www.dio.me/certificate/ACFQ8HJU/share) 
 | Trabalhando com IA Generativa | [Certificado](https://www.dio.me/certificate/S82PLZ9I/share)
+| Fundamentos de IA para Devs | [Certificado](https://www.dio.me/certificate/6ATHOTKC)
 
 ---------
 ![Fabio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioAgroTechnology&show_icons=true&theme=highcontrast)
